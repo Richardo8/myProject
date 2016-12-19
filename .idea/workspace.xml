@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bebfd2-bee5-4454-8456-fbc0496463a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <list id="498c4044-063b-4ec3-abca-6be6acf75c37" name="New changelist" comment="" />
     <ignored path="myproject.iws" />
@@ -385,7 +382,7 @@
       <workItem from="1481857400907" duration="9801000" />
       <workItem from="1482118491491" duration="1754000" />
       <workItem from="1482129141456" duration="8674000" />
-      <workItem from="1482140862571" duration="419000" />
+      <workItem from="1482140862571" duration="427000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1482132175415</created>
@@ -408,11 +405,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482139562694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ';'">
+      <created>1482141290592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1482141290592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47023000" />
+    <option name="totallyTimeSpent" value="47031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-135" width="1936" height="1096" extended-state="6" />
