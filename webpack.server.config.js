@@ -14,7 +14,7 @@ module.exports = {
         'react-dom/server', 'react/addons',
     ]).reduce(function (ext, mod) {
         ext[mod] = 'commonjs ' + mod;
-        return ext
+        return ext;
     }, {}),
 
     node: {
